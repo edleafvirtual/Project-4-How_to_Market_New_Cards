@@ -1,7 +1,7 @@
 ![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/CreditCardBanner.png)
 
 ## Purpose
-Xxxx
+MAKE A CLUSTER EVALUATION USING K-MEANS (UNSUPERVISED MACHINE LEARNING MODEL) TO SEGMENT CUSTUMERS IN ORDER TO IDENTIFY WHICH IS THE BEST GROUP FOR EACH NEW CREDIT CARD, AND DEVELOP AN INTERACTIVE DASHBOARD IN MS EXCEL WITH PYTHON.
 
 
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
