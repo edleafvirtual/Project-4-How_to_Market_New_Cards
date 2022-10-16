@@ -1,6 +1,20 @@
 ![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/CreditCardBanner.png)
 
-## Customer Segmentation
+## Purpose
+Xxxx
+
+
+<img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
+
+## Author
+#### Name: Eduardo Galindez.
+#### Date: Octuber 2022.
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/edleafvirtual?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edleafvirtual?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edleafvirtual/sales_predictions2023?style=social">
+
+## General Information
+
+#### Main Objective:
  Our stakeholder is a Credit Card Company that wants to market new credit cards.  They have asked us to segment their potential customers to determine how and what kind of cards they should market to each group.
 - The credit cards they want to market are:
   - Platinum. It's considered a High End product offering benefits like:
@@ -17,20 +31,6 @@
     - Up to $100 in Uber cash for rides.
     - Acces to Global Dining Collection.
     - And more.
-
-
-<img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
-
-## Author
-#### Name: Eduardo Galindez.
-#### Date: Octuber 2022.
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/edleafvirtual?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edleafvirtual?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edleafvirtual/sales_predictions2023?style=social">
-
-## Project Information
-
-#### General Objective:
-- Xxxxxx.
 #### Specific Objectives:
 - Xxxx.
 - Xxxxx.
@@ -41,11 +41,6 @@
 - Our study consists of two parts:
    - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Xxxxxxx.
    - [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Xxxxxxx.
-
-#### General Description
-A [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, being responsible for paying to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset). The State wants to agile administrative checkpoints, whose counties are more profitable. Part of the new procedures could be extending the deadline to pay the fees.
-
-Xxxxxxxxxx
 
 
 ## Outcome
