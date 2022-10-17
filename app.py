@@ -59,7 +59,11 @@ education = st.sidebar.slider(label='Select the Education Level:', min_value=min
                         max_value=max(edu_data), value=(min(edu_data),max(edu_data)))
 
 # To make the filters interact with the table (data).
-df_filtered = df.query('Cluster == @cluster & Education == @education1 & Income == @income')
+df_filtered = df.query('Cluster == @cluster and Education == @education1 and Age == @age')
+
+#print(df.query("'Cluster' == @cluster and 'Education' == @education1 and 'Income' == @income"))
+#print(df.query("Cluster == @cluster and Education == @education1")# and `Income` == @income"))
+#print(df.query("`Courses Fee` >= 23000 and `Courses Fee` <= 24000"))
 
 # & Income == @income & Debt == @debt & DebtIncomeRatio == @debtratio & Age == @age & Education == @education')
 
