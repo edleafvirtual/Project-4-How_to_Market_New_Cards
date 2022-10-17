@@ -29,9 +29,7 @@ cluster = st.sidebar.multiselect('Select the Cluster:',
                                  default=df['Cluster'].unique())
 
 ## Filter for Education.
-education1 = st.sidebar.multiselect('Select Education Level:',
-                                 options=df['Education'].unique(),
-                                 default=df['Education'].unique())
+#education1 = st.sidebar.multiselect('Select Education Level:', options=df['Education'].unique(), default=df['Education'].unique())
 
 ## Filter for Income.
 income_data = df['Income'].tolist()
@@ -59,13 +57,12 @@ education = st.sidebar.slider(label='Select the Education Level:', min_value=min
                         max_value=max(edu_data), value=(min(edu_data),max(edu_data)))
 
 # To make the filters interact with the table (data).
-df_filtered = df.query('Cluster == @cluster and Education == @education1 and Age == @age')
-
-#print(df.query("'Cluster' == @cluster and 'Education' == @education1 and 'Income' == @income"))
-#print(df.query("Cluster == @cluster and Education == @education1")# and `Income` == @income"))
-#print(df.query("`Courses Fee` >= 23000 and `Courses Fee` <= 24000"))
-
-# & Income == @income & Debt == @debt & DebtIncomeRatio == @debtratio & Age == @age & Education == @education')
+df_filtered = df.query('Cluster == @cluster \
+                        and Education >= @education[0] and Education <= @education[-1] \
+                        and Income >= @income[0] and Income <= @income[-1]\
+                        and Debt >= @debt[0] and Debt <= @debt[-1]\
+                        and DebtIncomeRatio >= @debtratio[0] and DebtIncomeRatio <= @debtratio[-1]\
+                        and Age >= @age[0] and Age <= @age[-1]')
 
 st.dataframe(df_filtered)
 
