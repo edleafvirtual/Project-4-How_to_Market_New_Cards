@@ -1,0 +1,11 @@
+altair
+boto3
+ccxt
+google
+pandas
+regex
+requests
+plotly.express
+plotly
+s3fs==0.4.*
+streamlit==1.1.*
