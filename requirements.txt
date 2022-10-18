@@ -2,10 +2,11 @@ altair
 boto3
 ccxt
 google
+openpyxl
 pandas
-regex
-requests
 plotly.express
 plotly
+regex
+requests
 s3fs==0.4.*
 streamlit==1.1.*
