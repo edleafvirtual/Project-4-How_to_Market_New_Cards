@@ -66,7 +66,7 @@ In the [notebook](https://github.com/edleafvirtual/Project-4-How_to_Market_New_C
 
 
 #### Dashboard: Streamlit App.
-Using the streamlit library and Python, a [web app](https://edleafvirtualproject4.streamlitapp.com/) was created with dynamic filters to interact with all variables of the database.
+We created a [web application](https://edleafvirtualproject4.streamlitapp.com/) with dynamic filters to interact with all variables of the database using the streamlit library and Python. By using the app, our stakeholders can go deeper into research per group (Cluster).
 
 
 ## Recomendations
