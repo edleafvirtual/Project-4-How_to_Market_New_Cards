@@ -54,6 +54,9 @@ MAKE A CLUSTER EVALUATION USING K-MEANS (UNSUPERVISED MACHINE LEARNING MODEL) TO
 
 #### [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
 1.- Xxxxxx
+Cluster 0 = A
+Cluster 1 = B
+Cluster 2 = C
 
 ## Recomendations
 1.- Xxxxx.
