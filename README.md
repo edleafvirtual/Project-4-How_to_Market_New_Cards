@@ -1,4 +1,4 @@
-![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/CreditCardBanner.png)
+![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/CreditCardBanner.png)
 
 # WORK IN PROGRESS
 
