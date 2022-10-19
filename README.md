@@ -48,11 +48,13 @@ Identify the groups (clusters) that should be targeted for marketing by credit c
 
 ## Outcome
 #### Part A: Unsupervised Machine Learning Model (KMeans).
-1.- The Machine Learning model help us to identify three groups: Cluster A, Cluster B & Cluster C.
+1.- The Machine Learning model helped us to identify three groups to be marketed: Cluster A, Cluster B & Cluster C. The graph below shows:
+  - There is not significant different in age, between Cluster A and C.
+  - Cluster B is the highest in income, education level and years employeed.
 
 ![KPI 1](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/KPI%20-%20Income%20hued%20by%20Age.png)
 
-2.- Xxxxxx
+2.- Plotting the relationship between income, debt and debt income ratio we identified how risky is Cluster B. In fact, in [Part A](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) we described which financial product should be marketed to this group, instead of a credit card.
 
 ![KPI 2](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/KPI%20-%20Income%20hued%20by%20Debt%20%26%20Debt%20Income%20Ratio.png)
 
