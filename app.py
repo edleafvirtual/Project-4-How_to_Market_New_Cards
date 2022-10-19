@@ -21,6 +21,7 @@ def get_data_from_excel():
 df = get_data_from_excel()
 print(df)
 
+#st.dataframe(df)
 
 # SIDEBAR SECTION.
 
@@ -65,7 +66,6 @@ df_filtered = df.query('Cluster == @cluster \
                         and DebtIncomeRatio >= @debtratio[0] and DebtIncomeRatio <= @debtratio[-1]\
                         and Age >= @age[0] and Age <= @age[-1]')
 
-#st.dataframe(df_filtered)
 
 # MAINPAGE
 
