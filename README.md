@@ -13,8 +13,7 @@ Use K-Means (Unsupervised Machine Learning Model) to identify clusters in the da
 
 ## General Information
 
-#### Main Objective:
- Our stakeholder is a Credit Card Company that wants to market new credit cards.  They have asked us to segment their potential customers to determine how and what kind of cards they should market to each group.
+Our stakeholder is a Financial Company that wants to market new credit cards.  They have asked us to segment their potential customers to determine how and what kind of cards they should market to each group.
 - The credit cards they want to market are:
   - Platinum. It's considered a High End product offering benefits like:
     - Rewards on spending: The introductory offer can take the travel further: Earn 100,000 Membership Rewards® Points after spending $6,000 on purchases on the Card in the first 6 months of Card Membership.
@@ -30,23 +29,28 @@ Use K-Means (Unsupervised Machine Learning Model) to identify clusters in the da
     - Up to $100 in Uber cash for rides.
     - Acces to Global Dining Collection.
     - And more.
+
+#### Main Objective:
+Identify the groups (clusters) that should be targeted for marketing by credit card type.
+
 #### Specific Objectives:
-- Xxxx.
+- Use a clustering algorithm to find groups which have not been explicitly labeled in the data.
 - Xxxxx.
 - Xxxx.
 - Xxxx.
 
 #### Scope:
-- Our study consists of two parts:
-   - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Xxxxxxx.
-   - [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Xxxxxxx.
+- Our study consists of three parts:
+   - [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model ([KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)).
+   - [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) A/B Testing.
+   - [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
 
 
 ## Outcome
-#### [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model (KMeans).
+#### [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model ([KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)).
 1.- Xxxxxxxx
 
-#### [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) Predictive Model.
+#### [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) A/B Testing.
 1.- Xxxxxxxx
 
 #### [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
