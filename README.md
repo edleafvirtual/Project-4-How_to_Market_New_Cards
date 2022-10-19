@@ -1,3 +1,4 @@
+<table style="background-color:#FFFFFF">
 ![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/CreditCardBanner.png)
 
 ## Purpose
@@ -70,14 +71,14 @@ We created a [web application](https://edleafvirtualproject4.streamlitapp.com/) 
 
 
 ## Recomendations
-1.- Xxxxx.
+1.- Using timeline variables, evaluate the tendency per cluster. It is intended to assess, for example, if Cluster A is growing in income or if Cluster B has a tendency to reduce debt.
 
 2.- Xxxxxxx. 
 
 3.- Xxxxxx.
 
 ## Limitations
-- Xxxxxxx.
+- CSS code for design improvement.
 
 
 ## Credits
