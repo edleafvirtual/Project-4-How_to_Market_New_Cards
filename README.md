@@ -60,7 +60,10 @@ Identify the groups (clusters) that should be targeted for marketing by credit c
 
 
 #### Part B: A/B Testing.
-1.- Xxxxxxxx
+The code was developed to determine income vs debt focus points in the marketing strategy. Based on the model developed, we concluded that Platinum Credit Card should be marketed to Cluster A using an income performance-based strategy.
+
+In the [notebook](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb), we described why using a debt performance-based strategy could boost Gold Credit Card's conversion rate.
+
 
 #### [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
 1.- Xxxxxx
