@@ -133,7 +133,14 @@ right_column.plotly_chart(fig_debt_income_ratio_per_cluster, use_container_with=
 
 
 # HIDE STREAMLIT STYLE
-
+hide_st_style = """
+                <style>
+                #MainMenu {visibility: hidden;}
+                footer {visibility: hidden;}
+                header {visibility: hidden;}
+                </style>
+                """
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
 
