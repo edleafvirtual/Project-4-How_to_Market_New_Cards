@@ -30,16 +30,16 @@ Our stakeholder is a Financial Company that wants to market new credit cards.  T
     - Acces to Global Dining Collection.
     - And more.
 
-### Main Objective:
+#### Main Objective:
 Identify the groups (clusters) that should be targeted for marketing by credit card type.
 
-### Specific Objectives:
+#### Specific Objectives:
 - Use a clustering algorithm to find groups which have not been explicitly labeled in the data.
 - Develop a scoring method to profile the customers.
 - Recommend how to market each group per credit card type.
 - Deploy a web app (Dashboard) for future research.
 
-### Scope:
+#### Scope:
 - The code of the project was developed in three parts:
    - [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model ([KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)).
    - [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) A/B Testing.
@@ -47,7 +47,7 @@ Identify the groups (clusters) that should be targeted for marketing by credit c
 
 
 ## Outcome
-## Part A: Unsupervised Machine Learning Model (KMeans).
+### Part A: Unsupervised Machine Learning Model (KMeans).
 1.- The Machine Learning model helped us to identify three groups to be marketed: Cluster A, Cluster B & Cluster C. The graph below shows:
   - There is not significant different in age, between Cluster A and C.
   - Cluster B is the highest in income, education level and years employeed.
@@ -59,13 +59,13 @@ Identify the groups (clusters) that should be targeted for marketing by credit c
 ![KPI 2](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/KPI%20-%20Income%20hued%20by%20Debt%20%26%20Debt%20Income%20Ratio.png)
 
 
-## Part B: A/B Testing.
+### Part B: A/B Testing.
 The code was developed to determine income vs debt focus points in the marketing strategy. Based on the model developed, we concluded that Platinum Credit Card should be marketed to Cluster A using an income performance-based strategy.
 
 In the [notebook](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb), we described why using a debt performance-based strategy could boost Gold Credit Card's conversion rate.
 
 
-## Dashboard: Streamlit App.
+### Dashboard: Streamlit App.
 We created a [web application](https://edleafvirtualproject4.streamlitapp.com/) with dynamic filters to interact with all variables of the database using the streamlit library and Python. By using the app, our stakeholders can go deeper into research per group (Cluster).
 
 
