@@ -1,7 +1,5 @@
 ![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/CreditCardBanner.png)
 
-# WORK IN PROGRESS
-
 ## Purpose
 Use K-Means (Unsupervised Machine Learning Model) to identify clusters in the data and determine which group of customers is aligned with each credit card. Create a dashboard that allows stakeholders to determine more insights per cluster through an interactive interface.
 
