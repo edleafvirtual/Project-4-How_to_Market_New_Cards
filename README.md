@@ -35,29 +35,34 @@ Identify the groups (clusters) that should be targeted for marketing by credit c
 
 #### Specific Objectives:
 - Use a clustering algorithm to find groups which have not been explicitly labeled in the data.
-- Xxxxx.
-- Xxxx.
-- Xxxx.
+- Develop a scoring method to profile the customers.
+- Recommend how to market each group per credit card type.
+- Deploy a web app (Dashboard) for future research.
 
 #### Scope:
-- Our study consists of three parts:
+- The code of the project was developed in three parts:
    - [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model ([KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)).
    - [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) A/B Testing.
-   - [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
+   - [Dashboard:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/app.py) Streamlit App.
 
 
 ## Outcome
-#### [Part A:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_A_KMeans.ipynb) Unsupervised Machine Learning Model ([KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)).
-1.- Xxxxxxxx
+#### Part A: Unsupervised Machine Learning Model (KMeans).
+1.- The Machine Learning model help us to identify three groups: Cluster A, Cluster B & Cluster C.
 
-#### [Part B:](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb) A/B Testing.
+![KPI 1](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/KPI%20-%20Income%20hued%20by%20Age.png)
+
+2.- Xxxxxx
+
+![KPI 2](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/KPI%20-%20Income%20hued%20by%20Debt%20%26%20Debt%20Income%20Ratio.png)
+
+
+#### Part B: A/B Testing.
 1.- Xxxxxxxx
 
 #### [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
 1.- Xxxxxx
-Cluster 0 = A
-Cluster 1 = B
-Cluster 2 = C
+
 
 ## Recomendations
 1.- Xxxxx.
