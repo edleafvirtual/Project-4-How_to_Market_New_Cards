@@ -65,8 +65,8 @@ The code was developed to determine income vs debt focus points in the marketing
 In the [notebook](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Part_B_AB_Testing.ipynb), we described why using a debt performance-based strategy could boost Gold Credit Card's conversion rate.
 
 
-#### [Dashboard:](https://edleafvirtualproject4.streamlitapp.com/) Streamlit App.
-1.- Xxxxxx
+#### Dashboard: Streamlit App.
+Using the streamlit library and Python, a [web app](https://edleafvirtualproject4.streamlitapp.com/) was created with dynamic filters to interact with all variables of the database.
 
 
 ## Recomendations
