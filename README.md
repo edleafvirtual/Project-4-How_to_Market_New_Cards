@@ -7,7 +7,7 @@ Use K-Means (Unsupervised Machine Learning Model) to identify clusters in the da
 
 ## Author
 #### Name: Eduardo Galindez.
-#### Date: Octuber 2022.
+#### Date: October 2022.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/edleafvirtual?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edleafvirtual?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edleafvirtual/sales_predictions2023?style=social">
 
