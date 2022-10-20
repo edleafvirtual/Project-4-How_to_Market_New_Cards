@@ -1,8 +1,3 @@
-body {
-background-color: #FFFFFF;
-}
-
-
 ![Banner](https://github.com/edleafvirtual/Project-4-How_to_Market_New_Cards/blob/main/Images/CreditCardBanner.png)
 
 ## Purpose
