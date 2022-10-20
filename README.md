@@ -72,12 +72,14 @@ We created a [web application](https://edleafvirtualproject4.streamlitapp.com/) 
 ## Recomendations
 1.- Using timeline variables, evaluate the tendency per cluster. It is intended to assess, for example, if Cluster A is growing in income or if Cluster B has a tendency to reduce debt.
 
-2.- Xxxxxxx. 
+2.- Regardless of whether there is a significant difference between education levels, it is important to have a dictionary for the variable from a marketing perspective. It is possible to link the keywords with the marketing campaign when approaching someone with a master's degree, for example.
 
-3.- Xxxxxx.
+
 
 ## Limitations
-- CSS code for design improvement.
+- Having no direct contact with stakeholders to get a better understanding of what kind of research they would like.
+
+- Improved CSS skills would improve the design of web applications. 
 
 
 ## Credits
